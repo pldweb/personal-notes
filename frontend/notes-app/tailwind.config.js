@@ -5,6 +5,9 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    fontWeight: {
+
+    },
     extend: {
       colors: {
         primary: "#2B85FF",
